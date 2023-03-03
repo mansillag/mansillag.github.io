@@ -229,25 +229,3 @@ p
         width: 100%;
     }
   }
-
-  @media screen and (max-width: 1600px) {
-    .menu
-    {
-        width: 100%;
-    }
-    .main
-    {
-        width: 100%;
-    }
-  }
-
-  @media screen and (max-width: 1800px) {
-    .menu
-    {
-        width: 100%;
-    }
-    .main
-    {
-        width: 100%;
-    }
-  }
