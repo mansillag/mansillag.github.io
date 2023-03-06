@@ -181,6 +181,10 @@ p
         width: 100%;
         font-size: 20px;
     }
+    .img
+    {
+        width: auto;
+    }
     }
 
   @media screen and (max-width: 600px) {
@@ -195,7 +199,11 @@ p
     .h1
     {
         width: 100%;
-        font-size: 40px;
+        font-size: 20px;
+    }
+    .img
+    {
+        width: auto;
     }
   }
 
@@ -211,6 +219,70 @@ p
     .h1
     {
         width: 100%;
+        font-size: 30px;
+    }
+    .img
+    {
+        width: auto;
+    }
+  }
+
+  @media screen and (max-width: 1000px) {
+    .menu
+    {
+        width: 100%;
+    }
+    .main
+    {
+        width: 100%;
+    }  
+    .h1
+    {
+        width: 100%;
+        font-size: 40px;
+    }
+    .img
+    {
+        width: auto;
+    }
+  }
+
+  @media screen and (max-width: 1200px) {
+    .menu
+    {
+        width: 100%;
+    }
+    .main
+    {
+        width: 100%;
+    }  
+    .h1
+    {
+        width: 100%;
+        font-size: 50px;
+    }
+    .img
+    {
+        width: auto;
+    }
+  }
+
+  @media screen and (max-width: 1400px) {
+    .menu
+    {
+        width: 100%;
+    }
+    .main
+    {
+        width: 100%;
+    }  
+    .h1
+    {
+        width: 100%;
         font-size: 60px;
+    }
+    .img
+    {
+       width: auto;
     }
   }
