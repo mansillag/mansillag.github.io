@@ -1,0 +1,1 @@
+window.alert("Bienvenid@ al sitio web del CV de Gastón Mansilla")
